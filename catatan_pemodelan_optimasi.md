@@ -14,4 +14,4 @@ Dokumen ini berisi ringkasan tahapan sistematis dalam melakukan pemodelan optima
 10. **Modifikasi model (Proses Siklik):** Memperbaiki variabel, asumsi, atau kendala jika model terbukti gagal atau tidak cocok di lapangan, lalu memutar kembali siklusnya dari awal.
 
 ---
-*Catatan Kuliah - Pemodelan Optimasi*
+*Catatan Kuliah - Pemodelan Optimasi Pertemuan ke 2*
